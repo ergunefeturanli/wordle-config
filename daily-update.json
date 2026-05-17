@@ -1,5 +1,5 @@
 {
-  "minimumDailyScheduleVersion": 9,
+  "minimumDailyScheduleVersion": 10,
   "message": {
     "en": "Today's puzzle was refreshed. Update WORDLE to keep Daily in sync.",
     "tr": "Bugünün bulmacası yenilendi. Daily herkesle aynı kalsın diye WORDLE'ı güncelle.",
