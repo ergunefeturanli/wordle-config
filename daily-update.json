@@ -1,0 +1,10 @@
+{
+  "minimumDailyScheduleVersion": 9,
+  "message": {
+    "en": "Today's Daily puzzle has been refreshed. Please update WORDLE to continue Daily.",
+    "tr": "Bugünün Daily bulmacası yenilendi. Daily'e devam etmek için WORDLE'ı güncelle."
+  },
+  "iosStoreUrl": "https://apps.apple.com/app/id0000000000",
+  "androidStoreUrl": "https://play.google.com/store/apps/details?id=com.ayanelabs.wordle",
+  "storeUrl": "https://example.com/wordle"
+}
