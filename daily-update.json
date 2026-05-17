@@ -1,10 +1,24 @@
 {
   "minimumDailyScheduleVersion": 9,
   "message": {
-    "en": "Today's Daily puzzle has been refreshed. Please update WORDLE to continue Daily.",
-    "tr": "Bugünün Daily bulmacası yenilendi. Daily'e devam etmek için WORDLE'ı güncelle."
+    "en": "Today's puzzle was refreshed. Update WORDLE to keep Daily in sync.",
+    "tr": "Bugünün bulmacası yenilendi. Daily herkesle aynı kalsın diye WORDLE'ı güncelle.",
+    "id": "Teka-teki hari ini telah diperbarui. Perbarui WORDLE agar Daily tetap sinkron.",
+    "ro": "Puzzle-ul de azi a fost actualizat. Actualizează WORDLE pentru ca Daily să rămână sincronizat.",
+    "cs": "Dnešní hádanka byla obnovena. Aktualizuj WORDLE, aby Daily zůstalo stejné pro všechny.",
+    "fi": "Tämän päivän pulma on päivitetty. Päivitä WORDLE, jotta Daily pysyy samana kaikille.",
+    "uk": "Сьогоднішню головоломку оновлено. Оновіть WORDLE, щоб Daily залишався синхронним.",
+    "da": "Dagens puslespil er blevet opdateret. Opdater WORDLE, så Daily forbliver synkroniseret.",
+    "nl": "De puzzel van vandaag is vernieuwd. Werk WORDLE bij zodat Daily synchroon blijft.",
+    "nb": "Dagens oppgave er oppdatert. Oppdater WORDLE slik at Daily er lik for alle.",
+    "pl": "Dzisiejsza zagadka została odświeżona. Zaktualizuj WORDLE, aby Daily było zsynchronizowane.",
+    "sv": "Dagens pussel har uppdaterats. Uppdatera WORDLE så att Daily är synkat.",
+    "de": "Das heutige Rätsel wurde aktualisiert. Aktualisiere WORDLE, damit Daily synchron bleibt.",
+    "es": "El puzzle de hoy se actualizó. Actualiza WORDLE para mantener Daily sincronizado.",
+    "fr": "Le puzzle du jour a été actualisé. Mets WORDLE à jour pour garder Daily synchronisé.",
+    "it": "Il puzzle di oggi è stato aggiornato. Aggiorna WORDLE per mantenere Daily sincronizzato.",
+    "pt": "O puzzle de hoje foi atualizado. Atualize WORDLE para manter o Daily sincronizado.",
+    "ru": "Сегодняшняя головоломка обновлена. Обновите WORDLE, чтобы Daily оставался синхронизированным."
   },
-  "iosStoreUrl": "https://apps.apple.com/app/id0000000000",
-  "androidStoreUrl": "https://play.google.com/store/apps/details?id=com.ayanelabs.wordle",
-  "storeUrl": "https://example.com/wordle"
+  "androidStoreUrl": "https://play.google.com/store/apps/details?id=com.ayanelabs.wordle"
 }
