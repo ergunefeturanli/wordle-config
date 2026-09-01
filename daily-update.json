@@ -3,7 +3,7 @@
   "iosStoreUrl": "https://apps.apple.com/app/id6771123137",
   "androidStoreUrl": "https://play.google.com/store/apps/details?id=com.ergunefeturanli.wordle",
   "crossPromo": {
-    "ios": false,
+    "ios": true,
     "android": false
   }
 }
